@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently study on Politeknik Negeri Jakarta
-- 🌱 I’m currently learning Mobile Development
+- 🌱 I am passionate about machine learning and software development.
 - ⚡ Fun fact: Nakamas
 
 
@@ -28,12 +28,9 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sep-sarip-hidayattuloh/">
     <img src="https://img.shields.io/badge/Sep%20Sarip%20Hidayattuloh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sep.sarip.hidayattuloh.tik22@mhsw.pnj.ac.id">
-    <img src="https://img.shields.io/badge/-sep.sarip.hidayattuloh.tik22@mhsw.pnj.ac.id-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/sepsarip">
     <img src="https://img.shields.io/badge/-@sepsarip-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
